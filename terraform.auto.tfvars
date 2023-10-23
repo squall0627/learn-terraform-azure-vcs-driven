@@ -1,0 +1,1 @@
+resource_group_name = "resource_group_vcs_driven"
